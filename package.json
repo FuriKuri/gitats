@@ -1,0 +1,14 @@
+{
+  "name": "gitats",
+  "version": "0.0.1",
+  "description": "Page to see github stats",
+  "main": "app.js",
+  "dependencies": {
+    "consolidate": "~0.9.1",
+    "express": "3.5.1",
+    "swig": "~0.14.0"
+  },
+  "repository": "",
+  "author": "Theo Pack <tf.pack@gmail.com>",
+  "license": "BSD"
+}
